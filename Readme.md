@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSample.cs](./CS/DXGrid.CustomFilter/DataSample.cs) (VB: [DataSample.vb](./VB/DXGrid.CustomFilter/DataSample.vb))
+* [FilterWindow.xaml](./CS/DXGrid.CustomFilter/FilterWindow.xaml) (VB: [FilterWindow.xaml](./VB/DXGrid.CustomFilter/FilterWindow.xaml))
+* [FilterWindow.xaml.cs](./CS/DXGrid.CustomFilter/FilterWindow.xaml.cs) (VB: [FilterWindow.xaml](./VB/DXGrid.CustomFilter/FilterWindow.xaml))
+* [MainWindow.xaml](./CS/DXGrid.CustomFilter/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXGrid.CustomFilter/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXGrid.CustomFilter/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXGrid.CustomFilter/MainWindow.xaml))
+<!-- default file list end -->
 # How to add the "(Custom)" menu item to column's filter dropdown list.
 
 
