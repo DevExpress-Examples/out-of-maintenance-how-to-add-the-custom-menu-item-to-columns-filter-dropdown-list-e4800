@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid.CustomFilter", "DXGrid.CustomFilter\DXGrid.CustomFilter.csproj", "{7CBD652A-3D80-45A0-B7F7-02FD7352FAD7}"
+# Visual Studio 16
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXGrid.CustomFilter", "DXGrid.CustomFilter\DXGrid.CustomFilter.Net5.vbproj", "{7CBD652A-3D80-45A0-B7F7-02FD7352FAD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

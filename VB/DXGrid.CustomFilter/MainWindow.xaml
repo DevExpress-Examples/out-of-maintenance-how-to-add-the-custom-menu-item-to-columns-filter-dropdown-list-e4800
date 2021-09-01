@@ -3,7 +3,7 @@
         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" x:Class="DXGrid.CustomFilter.MainWindow"
     xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
     xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
-    xmlns:dxgt="clr-namespace:DevExpress.Xpf.Grid.Themes;assembly=DevExpress.Xpf.Grid.v14.2"
+    xmlns:dxgt="clr-namespace:DevExpress.Xpf.Grid.Themes;assembly=DevExpress.Xpf.Grid.v21.1"
         Title="MainWindow" Height="546" Width="707">
     <Window.Resources>
 
